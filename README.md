@@ -1,2 +1,12 @@
-# Storytelling-with-Data
-This repository showcases my Tableau dashboard projects focused on data storytelling and visualization.  I'll be sharing interactive dashboards that uncover insights and trends using real-world datasets.
+## 📊 Netflix Dashboard – Tableau Project
+
+[![Netflix Dashboard Preview](NETFLIX%20DASHBOARD.png)](https://public.tableau.com/app/profile/karishma.mekaliya/viz/Dashboard1_17440577166240/NETFLIXDASHBOARD)
+
+This dashboard offers insights into Netflix’s content library, including:
+- Content type and distribution
+- Genre and rating breakdown
+- Country-wise availability
+- Yearly trends
+
+🔗 **[Click here to view the live dashboard](https://public.tableau.com/app/profile/karishma.mekaliya/viz/Dashboard1_17440577166240/NETFLIXDASHBOARD)**
+
